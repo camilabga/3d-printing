@@ -3,4 +3,6 @@ This repoository is to store al the pieces printed and its configuration on my 3
 
 I bought the printer at: https://www.banggood.com/Creality-3D-Ender-3-V-slot-Prusa-I3-DIY-3D-Printer-Kit-220x220x250mm-Printing-Size-p-1278399.html?rmmds=myorder&cur_warehouse=CN
 
-And usually I look up stuff to print at: https://www.thingiverse.com/
+And usually I look up stuff to print at: 
+1. https://www.thingiverse.com/
+2. https://www.myminifactory.com/
